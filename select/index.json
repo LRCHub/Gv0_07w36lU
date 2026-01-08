@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Document",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-01-08T16:09:04.975666Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Good - Document One Remix",
+      "artist": "Modestep",
+      "has_synced": false,
+      "path": "select/01_Feel_Good_-_Document_One_Remix_Modestep.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let It All Bleed Out - Document One Remix",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/02_Let_It_All_Bleed_Out_-_Document_One_Remix_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let It All Bleed Out (Document One Remix)",
+      "artist": "Rob Zombie",
+      "has_synced": false,
+      "path": "select/03_Let_It_All_Bleed_Out_(Document_One_Remix)_Rob_Zombie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "B-Boy Document '99",
+      "artist": "The High & Mighty feat. Mos Def & Mad Skillz",
+      "has_synced": false,
+      "path": "select/04_B-Boy_Document_'99_The_High_&_Mighty_feat._Mos_Def_&_Mad_Skillz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Document Speaks For Itself",
+      "artist": "A Day to Remember",
+      "has_synced": false,
+      "path": "select/05_The_Document_Speaks_For_Itself_A_Day_to_Remember.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel Good (Document One Remix)",
+      "artist": "Modestep",
+      "has_synced": false,
+      "path": "select/06_Feel_Good_(Document_One_Remix)_Modestep.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shredding The Document",
+      "artist": "John Hiatt",
+      "has_synced": false,
+      "path": "select/07_Shredding_The_Document_John_Hiatt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Praying for Silence Feat. Document One",
+      "artist": "Modestep",
+      "has_synced": true,
+      "path": "select/08_Praying_for_Silence_Feat._Document_One_Modestep.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reckless and Relentless (Document One Remix)",
+      "artist": "Asking Alexandria",
+      "has_synced": false,
+      "path": "select/09_Reckless_and_Relentless_(Document_One_Remix)_Asking_Alexandria.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reckless & Relentless (Document One Remix)",
+      "artist": "Asking Alexandria",
+      "has_synced": false,
+      "path": "select/10_Reckless_&_Relentless_(Document_One_Remix)_Asking_Alexandria.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "B-Boy Document 99",
+      "artist": "The High & Mighty",
+      "has_synced": true,
+      "path": "select/11_B-Boy_Document_99_The_High_&_Mighty.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Document",
+      "artist": "Assemblage 23",
+      "has_synced": true,
+      "path": "select/12_Document_Assemblage_23.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Document: Grace Budd",
+      "artist": "The Number Twelve Looks Like You",
+      "has_synced": false,
+      "path": "select/13_Document__Grace_Budd_The_Number_Twelve_Looks_Like_You.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Document",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/14_Document_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Document [ドキュメント]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/15_Document_[ドキュメント]_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "B-Boy Document '99",
+      "artist": "The High & Mighty, Mad Skillz, Mos Def",
+      "has_synced": true,
+      "path": "select/16_B-Boy_Document_'99_The_High_&_Mighty,_Mad_Skillz,_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Feel Good (Document One Remix)",
+      "artist": "Modestep; Document One",
+      "has_synced": false,
+      "path": "select/17_Feel_Good_(Document_One_Remix)_Modestep;_Document_One.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Document",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_Document_レトロリロン.txt"
+    }
+  ]
+}
